@@ -213,7 +213,7 @@ table{
     content: "";
     position: absolute;
     height: 630px;
-    background: url('/img/homebg.avif') no-repeat center center/cover;
+    background: url(/img/homebg.avif) no-repeat center center/cover;
     /* background-color: cyan; */
     z-index: -1;
     top: 0;
